@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nrcool/react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/nrcool/react/static/js/main.82fb0d73.chunk.js",
+    "main.js.map": "/nrcool/react/static/js/main.82fb0d73.chunk.js.map",
+    "runtime~main.js": "/nrcool/react/static/js/runtime~main.f1f3137b.js",
+    "runtime~main.js.map": "/nrcool/react/static/js/runtime~main.f1f3137b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/nrcool/react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/nrcool/react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/nrcool/react/index.html",
+    "precache-manifest.d1d1003c313e4309890462f5b2cea6d9.js": "/nrcool/react/precache-manifest.d1d1003c313e4309890462f5b2cea6d9.js",
+    "service-worker.js": "/nrcool/react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/nrcool/react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/nrcool/react/static/media/logo.5d5d9eef.svg"
+  }
+}
